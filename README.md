@@ -1,4 +1,6 @@
-## Hi there 👋
+##自我介绍
+我是计科3班的陈国威，来自广东惠州。性格上较为开朗，并没有什么特别的爱好，平时喜欢听听歌，追追剧，看一些科普类视频。
+生活上对于各个方面都会有一定的好奇心，会去做各种各样的尝试（比如打台球、看海之类的）。目前，我也会尝试去记录生活中的美好瞬 👋
 
 <!--
 **gomevie/gomevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
